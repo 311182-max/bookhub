@@ -81,3 +81,19 @@ main {
     color: gray;
     padding: 40px;
 }
+#result img{
+    width:180px;
+    display:block;
+    margin:20px auto;
+    border-radius:10px;
+}
+
+#result h3{
+    margin:15px 0;
+    text-align:center;
+}
+
+#result p{
+    margin:10px 0;
+    line-height:1.7;
+}
